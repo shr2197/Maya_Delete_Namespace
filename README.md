@@ -1,0 +1,1 @@
+# Maya_Delete_Namespace
